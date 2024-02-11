@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/_Scenes/Main Menu.unity
+    guid: 1706596c62aca7e48be1144669759809
+  - enabled: 1
+    path: Assets/_Scenes/Car Select.unity
+    guid: b0f34c309a514a9499edf4b33f5e65ac
+  - enabled: 1
+    path: Assets/_Scenes/Track Select.unity
+    guid: 8d0e1644843e8914ea1026096fe1246f
+  - enabled: 1
+    path: Assets/_Scenes/Drift Track.unity
+    guid: ab53c1251c08abf4786f4d5135f59c76
+  - enabled: 1
+    path: Assets/_Scenes/Sprint Track.unity
+    guid: 46478303f7c601e4e8584cb7f8d31d7f
+  - enabled: 1
+    path: Assets/_Scenes/Lake Track.unity
+    guid: 2e1336748f3797f4798cf9e588e2620f
+  - enabled: 1
+    path: Assets/_Scenes/Win Scene.unity
+    guid: 2c277d3046b57a44ca88988018c5ff7d
+  - enabled: 1
+    path: Assets/_Scenes/Lose Scene.unity
+    guid: ba6696a58cc00844b9107d6f4145e323
+  m_configObjects: {}
